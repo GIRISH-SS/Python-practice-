@@ -8,3 +8,4 @@ lst1 = [10, 20, "apple", False, 3+5j, 30]
 print(lst1)
 print(type(lst1))
 print(id(lst1))
+print(lst is lst1)
